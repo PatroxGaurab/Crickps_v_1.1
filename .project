@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Crickps3</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/images2.jpg</name>
+			<type>1</type>
+			<location>F:/Crickps/bin/images2.jpg</location>
+		</link>
+		<link>
+			<name>src/screenshot4.jpg</name>
+			<type>1</type>
+			<location>F:/Crickps/bin/screenshot4.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>
